@@ -74,3 +74,6 @@ This is the detailed workflow I created for both preparing the file and milling 
     6. Tool status → ensure Voltage>3.6V
     7. Second most right option on bottom bar → select (check) auto vacuum + select (check) auto-levelling; select Run
     8. Machine should touch down at 25 points on material and then file should run (whole design should be automatically milled)
+
+## Issues:
+We did not run into any major issues while preparing or milling this design because of our instructors' (Mr. Dubick and Mr. Budzichowski) close guidance.
