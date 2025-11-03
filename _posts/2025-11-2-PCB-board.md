@@ -1,5 +1,8 @@
 I prepared a PCB file in Makera Cam and milled it out on a Makera Carvera machine. Below is a picture of my milled PCB board (really its the two that are shared between Evan, Jake, and myself):
 
+![PCB_board](https://github.com/user-attachments/assets/7f304899-2663-4428-833c-5f2758a4fe02)
+
+
 This is the detailed workflow I created for both preparing the file and milling it out:
 
 <!-- Embedded PDF workflow -->
