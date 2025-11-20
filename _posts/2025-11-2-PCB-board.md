@@ -77,3 +77,6 @@ This is the detailed workflow I created for both preparing the file and milling 
 
 ## Issues:
 We did not run into any major issues while preparing or milling this design because of our instructors' (Mr. Dubick and Mr. Budzichowski) close guidance.
+
+## Files:
+These are the Makera CAM and gcode files I used: [files](../assets/files/)
