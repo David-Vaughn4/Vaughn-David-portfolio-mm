@@ -5,6 +5,7 @@ I prepared a PCB file in Makera Cam and milled it out on a Makera Carvera machin
 This is the detailed workflow I created for both preparing the file and milling it out:
 
 ## Preparing Design:
+Open Makera CAM
 1. Open new 3D project
 2. Set material to PCB: Edit→Material→PCB
 3. Set dimensions
