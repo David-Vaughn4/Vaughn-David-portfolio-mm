@@ -6,6 +6,7 @@ This is the detailed workflow I created for both preparing the file and milling 
 
 ## Preparing Design:
 Open Makera CAM
+<img width="1050" height="469" alt="Makera_CAM_opened" src="https://github.com/user-attachments/assets/d9b3627e-f9ae-4621-b7a9-78c1a29b662d" />
 1. Open new 3D project
 2. Set material to PCB: Edit→Material→PCB
 3. Set dimensions
@@ -16,6 +17,7 @@ Open Makera CAM
     - Resistance1-F_Cu.gbr
     - Resistance1-PTH.drl
     - Resistance1-Edge_Cuts.gbr
+<img width="1046" height="473" alt="Makera_CAM_file_opening" src="https://github.com/user-attachments/assets/b34f1679-c421-4e53-b393-9c0083fc9aa0" />
 5. Import each of these files in MakeraCAM:
     - File→Import PCB→Downloads→Resistance1-Edge_Cuts.gbr→Open
     - File→Import PCB→Downloads→Resistance1-PTH.drl→Open
@@ -80,4 +82,8 @@ Open Makera CAM
 We did not run into any major issues while preparing or milling this design because of our instructors' (Mr. Dubick and Mr. Budzichowski) close guidance.
 
 ## Files:
+<<<<<<< HEAD
 This is the original cut files, Makera CAM file, and gcode file I used: [files](../assets/files/PCB%20board.zip)
+=======
+These are the Makera CAM and gcode files I used: [files](../assets/files/PCB%20board.zip)
+>>>>>>> 36625963410215aa6b0a8c569c7efa0551ee2434
