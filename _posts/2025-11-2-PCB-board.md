@@ -80,4 +80,4 @@ Open Makera CAM
 We did not run into any major issues while preparing or milling this design because of our instructors' (Mr. Dubick and Mr. Budzichowski) close guidance.
 
 ## Files:
-These are the Makera CAM and gcode files I used: [files](../assets/files/PCB%20board.zip)
+This is the original cut files, Makera CAM file, and gcode file I used: [files](../assets/files/PCB%20board.zip)
